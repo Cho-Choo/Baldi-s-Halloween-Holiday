@@ -1,23 +1,8 @@
-# Baldi-s-Halloween-Holiday
-Upcoming Baldi's Basics mod using the classic decompile
+Upcoming Baldi's Basics mod using classic decompile
                                                                                                     
                                                                                                     
                                                                                                     
                                                                                                     
-     
-                                
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
-                                  
                                   ++=+                                                              
                            *#*++++==========+                                                       
                       ****=****++++++++====+====++                                                  
